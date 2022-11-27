@@ -14,8 +14,11 @@ export class EventsListComponent implements OnInit {
 
   constructor(
     private eventService: EventService,
+
   ) { }
 
   ngOnInit(): void {}
+
+
 
 }
